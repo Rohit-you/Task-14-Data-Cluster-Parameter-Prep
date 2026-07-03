@@ -60,8 +60,3 @@ This task helped me understand why feature selection and scaling are important b
 
 ---
 
-## Author
-
-Rohit Dhage
-AI/ML Internship
-Altrodav Technologies Pvt. Ltd.
